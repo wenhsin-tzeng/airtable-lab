@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-top: 10rem;
+  font-family: 'DotGothic16', sans-serif;
+}
+
+h1 {
+
+}
+
+input {
+  font-size: 20px;
+}
+
+button {
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: yellow;
+}
+
+#answer {
+  font-size: 100px;
+  color: yellow;
+}
